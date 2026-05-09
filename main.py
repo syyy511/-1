@@ -69,4 +69,4 @@ async def gift(ctx):
     await ctx.send(f"مبروك، حصلت من عجلة الهدايا على: {random.choice(prizes)}")
 
 # حط التوكن هنا
-bot.run(MTQ4ODEwOTY4MTc2MjExMTU4OA.GakaiU.B2CRF564Q3aThUM45_wnTP4T1ZbcSDfKxVpKXo)
+bot.run("MTQ4ODEwOTY4MTc2MjExMTU4OA.GakaiU.B2CRF564Q3aThUM45_wnTP4T1ZbcSDfKxVpKXo")
