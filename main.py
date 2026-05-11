@@ -145,5 +145,5 @@ async def quran(ctx):
 # ---------------------------------------------------------
 # المكان المخصص للتوكن (امسح TOKEN_HERE وحط التوكن حقك)
 # ---------------------------------------------------------
-bot.run('TOKEN_HERE')
+bot.run('MTQ4ODEwOTY4MTc2MjExMTU4OA.G-JJhd.nRLDh0iRkYc_9OhJkY04nJ225tRPCg3N0UN8lM')
 
